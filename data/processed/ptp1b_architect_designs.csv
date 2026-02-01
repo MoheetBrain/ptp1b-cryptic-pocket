@@ -1,0 +1,3 @@
+chembl_id,similarity,ic50_nm,mw,logp,hbd,scaffold,smiles
+CHEMBL1232829,92.0634925365447998046875,2000.0,741.46,6.51,3,O=C(c1ccccc1)c1coc2cc(S(=O)(=O)Nc3ccc(S(=O)(=O)Nc4nccs4)cc3)ccc12,CCc1oc2cc(S(=O)(=O)Nc3ccc(S(=O)(=O)Nc4nccs4)cc3)ccc2c1C(=O)c1cc(Br)c(O)c(Br)c1
+CHEMBL598832,100,3000.0,586.28,5.71,2,O=C(c1ccccc1)c1coc2cc(S(=O)(=O)Nc3nccs3)ccc12,CCc1oc2cc(S(=O)(=O)Nc3nccs3)ccc2c1C(=O)c1cc(Br)c(O)c(Br)c1

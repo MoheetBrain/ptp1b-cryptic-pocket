@@ -1,0 +1,8 @@
+chembl_webresource_client
+pandas
+rdkit
+numpy
+
+
+
+
